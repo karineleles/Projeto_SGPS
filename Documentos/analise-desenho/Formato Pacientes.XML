@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ArquivoPaciente>
+   <InformacaoPaciente>
+      <Nomecompleto>NOME DO PACIENTE A SER IMPORTADO; </Nomecompleto>
+      <CPF>Nº CPF DO PACIENTE; </CPF>
+      <DataNascimento>DATA NASCIMENTO DO PACIENTE; </DataNascimento>
+      <Contato>
+         <Endereco>
+              <Rua>LOGRADOURO DO PACIENTE -</Rua>
+              <Num>NUMERO; </Num>
+              <municipio>CIDADE; </municipio>
+              <UF>UF; </UF>
+         </Endereco>
+         <telefone>TELEFONE CONTATO; </telefone>
+         <email>EMAIL; </email>
+      </Contato>
+      <Nacionalidade>NACIONALIDADE; </Nacionalidade>
+      <Sexo>SEXO PACIENTE; </Sexo>
+   <InformacaoPaciente>
+</ArquivoPaciente>
