@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ArquivoPaciente>
+   <InformacaoPaciente>
+      <Nomecompleto>RODRIGO FERREIRA REIS;</Nomecompleto>
+      <CPF>01024546520;</CPF>
+      <DataNascimento>29/08/1983;</DataNascimento>
+        <Endereco>
+              <Rua>STA ALEXANDRINA;</Rua>
+              <Num>196;</Num>
+              <municipio>BH;</municipio>
+              <UF>MG;</UF>
+        </Endereco>
+		<Contato>      
+		<telefone>9810-8609;</telefone>
+		<Email>rferreira.reis@gmail.com;</Email>
+	  </Contato>
+      <Nacionalidade>BRASILEIRO;</Nacionalidade>
+      <Sexo>MASCULINO; </Sexo>
+   </InformacaoPaciente>
+</ArquivoPaciente>
